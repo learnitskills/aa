@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "success-success"
+echo "success"
